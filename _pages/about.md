@@ -54,5 +54,3 @@ My research interests include Reinforcement Learning, Causal Representation Lear
 # Honors and Awards
 
 - **Best Student Paper Award**, BigDIA 2024
-
-# Internships
