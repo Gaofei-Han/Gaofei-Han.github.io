@@ -47,7 +47,9 @@ My research interests include Reinforcement Learning, Causal Representation Lear
 
 - 庄嘉帆; **韩高飞**; 夏子皓; 林澈; 李文姬; 范衠; 郝志峰，基于CFS的多无人机避障方法、系统、装置及介质，专利号：CN118311976B，授权日：2024.09.27，法律状态：已授权
 
-# Educations
+# Projects
+
+- 国家重点研发计划“科技创新2030”项目（2021ZD0111502），“因果推理与决策理论模型研究”，参与，2022-2025
 
 # Invited Talks
 
