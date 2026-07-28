@@ -23,6 +23,10 @@ My research interests include Reinforcement Learning, Causal Representation Lear
 
 # News
 
+*2026.07*: 🎉🎉 1 paper has been accepted by Sensors
+
+*2026.03*: 🎉🎉 1 paper has been accepted by ICME
+
 # Publications
 
 - Weakly Supervised Infrared Small Target Recognition Based on Causal Representation Learning, Yusu Niu, Jiafan Zhuang, Yicheng Luo, Che Lin, **Gaofei Han**, Zhun Fan, **ICME 2026**
