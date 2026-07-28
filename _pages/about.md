@@ -21,8 +21,6 @@ I am **Gaofei Han**, a Ph.D. student in Computer Science at the **Shenzhen Insti
 
 My research interests include Reinforcement Learning, Causal Representation Learning, Multi-Agent UAV Systems, World Models, and Surgical Video Foundation Models.
 
-My publications have received <a href='https://scholar.google.com.hk/citations?user=CEJd4HoAAAAJ&hl=zh-CN'>Google Scholar citations <strong><span id='total_cit'>27</span></strong></a>.
-
 # News
 
 # Publications
