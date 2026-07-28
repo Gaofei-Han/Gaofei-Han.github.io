@@ -39,7 +39,9 @@ My research interests include Reinforcement Learning, Causal Representation Lear
 
 - [Deep Reinforcement Learning Based Multi-UAV Collision Avoidance with Causal Representation Learning](https://doi.org/10.1109/BigDIA63733.2024.10808898), **Gaofei Han**, Qingling Wu, Boxi Wang, Che Lin, Jiafan Zhuang, Wenji Li, Zhifeng Hao, Zhun Fan, **BigDIA 2024** <span class='show_paper_citations' data='CEJd4HoAAAAJ:u5HHmVD_uO8C'></span>
 
-# Honors and Awards
+# Patents
+
+- 庄嘉帆; **韩高飞**; 夏子皓; 林澈; 李文姬; 范衠; 郝志峰，基于CFS的多无人机避障方法、系统、装置及介质，专利号：CN118311976B，授权日：2024.09.27，法律状态：已授权
 
 # Educations
 
