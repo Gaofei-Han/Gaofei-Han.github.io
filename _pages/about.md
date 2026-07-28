@@ -51,6 +51,8 @@ My research interests include Reinforcement Learning, Causal Representation Lear
 
 - 国家重点研发计划“科技创新2030”项目（2021ZD0111502），“因果推理与决策理论模型研究”，参与，2022-2025
 
-# Invited Talks
+# Honors and Awards
+
+- **Best Student Paper Award**, BigDIA 2024
 
 # Internships
