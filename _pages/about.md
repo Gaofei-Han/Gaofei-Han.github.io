@@ -27,6 +27,10 @@ My publications have received <a href='https://scholar.google.com.hk/citations?u
 
 # Publications
 
+- Weakly Supervised Infrared Small Target Recognition Based on Causal Representation Learning, Yusu Niu, Jiafan Zhuang, Yicheng Luo, Che Lin, **Gaofei Han**, Zhun Fan, **ICME 2026**
+
+- Revisiting Stereo Triangulation in UAV Distance Estimation, Jiafan Zhuang, Duan Yuan, **Gaofei Han**, Zhilang Weng, Rihong Yan, Weixin Huang, Wenji Li, Jie Xu, Zhun Fan, **Sensors 2026**
+
 - [Learning Robust Policy for Multi-UAV Collision Avoidance via Compact Causal Feature](https://doi.org/10.65109/AAFZ2582), Zhun Fan, **Gaofei Han**, Che Lin, Wenji Li, Jie Xu, Jiafan Zhuang, **AAMAS 2026** <span class='show_paper_citations' data='CEJd4HoAAAAJ:2osOgNQ5qMEC'></span>
 
 - [Improving Generalization in Collision Avoidance for Multiple Unmanned Aerial Vehicles via Causal Representation Learning](https://doi.org/10.3390/s25113303), Che Lin, **Gaofei Han**, Qingling Wu, Boxi Wang, Jiafan Zhuang, Wenji Li, Zhifeng Hao, Zhun Fan, **Sensors 2025** <span class='show_paper_citations' data='CEJd4HoAAAAJ:d1gkVwhDpl0C'></span>
